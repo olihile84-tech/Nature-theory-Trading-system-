@@ -1,0 +1,5 @@
+The daily chart is used for
+
+* see the micro level flow of the weekly and monthly 
+
+* to show the macro short term of the lower timeframes
